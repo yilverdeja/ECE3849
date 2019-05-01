@@ -1,0 +1,1 @@
+"./Crystalfontz128x128_ST7735.obj" "./HAL_EK_TM4C1294XL_Crystalfontz128x128_ST7735.obj" "./buttons.obj" "./main.obj" "./sysctl_pll.obj" "./tm4c1294ncpdt_startup_ccs.obj" "../tm4c1294ncpdt.cmd" -llibc.a 
